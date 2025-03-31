@@ -1,9 +1,0 @@
-Z:\Asztali alk\Naptár\Naptár\bin\Debug\Naptár.exe.config
-Z:\Asztali alk\Naptár\Naptár\bin\Debug\Naptár.exe
-Z:\Asztali alk\Naptár\Naptár\bin\Debug\Naptár.pdb
-Z:\Asztali alk\Naptár\Naptár\obj\Debug\Naptár.csprojAssemblyReference.cache
-Z:\Asztali alk\Naptár\Naptár\obj\Debug\Naptár.Form1.resources
-Z:\Asztali alk\Naptár\Naptár\obj\Debug\Naptár.Properties.Resources.resources
-Z:\Asztali alk\Naptár\Naptár\obj\Debug\Naptár.csproj.GenerateResource.cache
-Z:\Asztali alk\Naptár\Naptár\obj\Debug\Naptár.exe
-Z:\Asztali alk\Naptár\Naptár\obj\Debug\Naptár.pdb
